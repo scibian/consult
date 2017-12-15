@@ -1,13 +1,13 @@
 Source: consult
 Priority: optional
-Maintainer: Rémi Palancher <remi-externe.palancher@edf.fr>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends:
  debhelper (>= 9)
 X-Python-Version: >= 2.7
 Standards-Version: 3.9.6
 Section: admin
-Vcs-Browser: https://github.com/edf-hpc/consult
-Vcs-Git: https://github.com/edf-hpc/consult.git
+Vcs-Browser: https://github.com/scibian/consult
+Vcs-Git: https://github.com/scibian/consult.git
 
 Package: consult
 Architecture: all
